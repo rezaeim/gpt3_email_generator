@@ -3,7 +3,7 @@ import openai
 from ml_backend import ml_backend
 
 st.title("Interactive Email Generator App")
-st.text("by Alex Zavalny")
+st.text("by Mehrdad Rezaei")
 
 st.markdown(""" 
 
